@@ -2,7 +2,7 @@
  *
  * Created by: Mohammed Afheej
  * Created on: Sep 2024
- * This program Shows Hello World
+ * This program Shows Hello Mohammed
 */
 
-basic.showString('Hello, World!')
+basic.showString('Hello, Mohammed!')
